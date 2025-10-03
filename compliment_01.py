@@ -16,7 +16,12 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
 
+comp = input("Would you like a complement?")
 
+if comp == "yes":
+    print ("You have wonderful eyes.")
+else: 
+    print("Thank you for playing.")
 
 
 
